@@ -1,12 +1,9 @@
-A Magisk module to enable 5G for Unlisted Countries, VoLTE switches in the settings, add support for Chinese and Korean SIM Cards for Pixel 4a (5G) and Pixel 5.
+A Magisk module to enable VoLTE switches in the settings, add support for Chinese and Korean SIM Cards for Pixel 4a (5G) and Pixel 5.
 This is a module made in theory. I don't know if it will work in China or Korea. 
 Please test and report to @swangjang at XDA
 This is a systemless install so you can revert back by uninstalling the module.
 ----------------------------------------------------------
 This module does 4 things:
-
-1. Replace Common/Wildcard mbn with an existing "google certified" carrier (i.e. AU Vodafone mbn)
-	What is Wildcard? watch -> https://www.youtube.com/watch?v=xZq_gt15FdY
    
 1. Add Chinese and Korean Carrier mbn files to the device
 
@@ -24,12 +21,7 @@ This module does 4 things:
     persist.radio.data_con_rprt=1
     persist.radio.calls.on.ims=1
 ----------------------------------------------------------
-1. Take out your sim card
-2. Download as zip and flash in magisk manager.
-3. Wait until phone is fully booted 
-4. Insert sim card
-If you are in an Unlisted Country, you may need to manually add your carrier's APN settings.
-You may also need to insert a different card to forcibly trigger a reloading of mbn file.
+Download as zip and flash in magisk manager.
 ----------------------------------------------------------
 
 필셀 4a (5G) 와 필셀 5 를 위한 매지스크 모듈.
