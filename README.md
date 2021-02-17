@@ -3,7 +3,7 @@ This is a module made in theory. I don't know if it will work in China or Korea.
 Please test and report to @swangjang at XDA
 This is a systemless install so you can revert back by uninstalling the module.
 ----------------------------------------------------------
-This module does 4 things:
+This module does 3 things:
    
 1. Add Chinese and Korean Carrier mbn files to the device
 
