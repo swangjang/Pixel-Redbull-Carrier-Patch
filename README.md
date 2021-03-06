@@ -17,6 +17,7 @@ This module will do the following:
 Download as zip and flash in magisk manager.
 
 You may need to insert a different sim card to forcibly trigger a reloading of mbn file.
+
 ----------------------------------------------------------
 
 픽셀 4a (5G) 와 필셀 5 를 위한 매지스크 모듈.
