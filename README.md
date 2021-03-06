@@ -1,5 +1,7 @@
 A Magisk module (in testing) to enable 5G for Unlisted Countries, VoLTE switches in the settings and add support for Chinese and Korean SIM Cards for Pixel 4a (5G) and Pixel 5.
 
+This module does NOT enable VoLTE for your carrier if it doesn't work out of the box. It only adds the switches in the phone settings.
+
 ----------------------------------------------------------
 This module will do the following:
 
