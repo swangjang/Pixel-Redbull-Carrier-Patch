@@ -16,7 +16,7 @@ This module will do the following:
 4. Add build properties to forcibly enable some settings
 
 ----------------------------------------------------------
-Download as zip and flash in magisk manager.
+Flash in magisk manager.
 
 You may need to insert a different sim card to forcibly trigger a reloading of mbn file.
 
