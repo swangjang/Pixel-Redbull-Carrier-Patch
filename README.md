@@ -1,6 +1,6 @@
 A Magisk module (in testing) to enable 5G for Unlisted Countries, VoLTE switches in the settings and add support for more countries/carriers.
 
-VoLTE still won't work if there is no specific VoTLE mbm file for your carrier.
+VoLTE still won't work if there is no specific VoTLE mbn file for your carrier.
 
 ----------------------------------------------------------
 Flash in magisk manager.
