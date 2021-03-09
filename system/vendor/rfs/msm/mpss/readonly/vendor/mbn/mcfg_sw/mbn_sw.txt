@@ -161,6 +161,7 @@ mcfg_sw/generic/Pixel/NA/Cellcom_Core/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Charter/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Cricket/pixel_5G/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Cricket/pixel_Cricket/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/NA/Dish/pixel_Dish/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Freedom/pixel_VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Inland/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Rogers/Chatr/pixel_CA/mcfg_sw.mbn
@@ -172,6 +173,7 @@ mcfg_sw/generic/Pixel/NA/Sprint_FI/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Sprint_Fi_data/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/TMO/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/TMO_FI/pixel_Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/NA/TMO_Mvno/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/TMO_RCS_Test/pixel_TMO_RCS_Test/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Telus/Commercial/pixel_CA/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Telus/Koodo/pixel_CA/mcfg_sw.mbn
