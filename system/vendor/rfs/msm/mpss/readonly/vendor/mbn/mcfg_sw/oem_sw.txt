@@ -1,4 +1,4 @@
-mcfg_sw/generic/Pixel/OEM/Lab/Volte_Test/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/OEM/Lab/Voㅣㅆㄸ_Test/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Oversea/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Oversea/Commercial/MTNL_BSNL/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CMCC/Commercial/Volte_OpenMkt/mcfg_sw.mbn
@@ -8,7 +8,6 @@ mcfg_sw/generic/Pixel/China/CU/Commercial/VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/KT/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/LGU/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/SKT/pixel_Commercial/mcfg_sw.mbn
-mcfg_sw/generic/Pixel/Korea/TTA/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/TMO/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/FirstNet/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Sprint/Commercial/mcfg_sw.mbn
