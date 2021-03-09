@@ -186,6 +186,10 @@ mcfg_sw/generic/Pixel/OEM/Lab/VoLTE_Test/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Lab/Oversea/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Lab/Oversea/Commercial/MTNL_BSNL/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/PTCRB/pixel_PTCRB/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/Russia/Beeline/pixel_Gen3GPP/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/Russia/Megafon/Commercial/pixel_MG/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/Russia/Megafon/Commercial/pixel_RU/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/Russia/MTS/Commercial/pixel_RU/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/SA/Brazil/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/SEA/3HK/Commercial/pixel_HK/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/SEA/ChunghwaTel/Commercial/pixel_TW/mcfg_sw.mbn
