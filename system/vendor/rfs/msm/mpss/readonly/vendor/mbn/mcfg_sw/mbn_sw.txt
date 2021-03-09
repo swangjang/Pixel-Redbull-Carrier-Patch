@@ -143,6 +143,8 @@ mcfg_sw/generic/Pixel/LATAM/Telefonica/Commercial/pixel_Colombia/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/LATAM/Telefonica/Commercial/pixel_PA/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/LATAM/Telefonica/Commercial/pixel_Peru/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/LATAM/WOM/Commercial/pixel_CL/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/MEA/Etisalat/Commercial/pixel_AE/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/MEA/STC/Commercial/pixel_SA/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_5G/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_FirstNet/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_VoLTE/mcfg_sw.mbn
