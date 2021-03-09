@@ -125,7 +125,6 @@ mcfg_sw/generic/Pixel/EU/Yoigo/Commercial/pixel_ES/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/KT/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/LGU/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/Korea/SKT/pixel_Commercial/mcfg_sw.mbn
-mcfg_sw/generic/Pixel/Korea/TTA/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_5G/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_FirstNet/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/pixel_VoLTE/mcfg_sw.mbn
