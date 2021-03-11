@@ -40,6 +40,7 @@ mcfg_sw/generic/Pixel/EU/A1/Commercial/pixel_Austria/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/A1/Commercial/pixel_Serbia/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Bouygues/Commercial/pixel_France/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DIGI/Commercial/pixel_Romania/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/EU/DNA/Commercial/pixel_FI/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DT/Commercial/pixel_Austria/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DT/Commercial/pixel_NL/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DT/Commercial/pixel_Croatia/mcfg_sw.mbn
