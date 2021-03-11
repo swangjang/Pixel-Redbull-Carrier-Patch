@@ -5,6 +5,10 @@ LATESTARTSERVICE=false
 
 rm -r /data/vendor/radio
 rm -r /data/vendor/modem_fdr
+rm /data/vendor/radio/iccid_0
+rm /data/vendor/radio/iccid_1
+rm /data/vendor/radio/qcril.db
+rm /data/vendor/radio/qcril_backup.db
 
 REPLACE="
 /vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw
