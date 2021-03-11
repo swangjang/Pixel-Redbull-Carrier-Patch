@@ -18,8 +18,6 @@ REPLACE="
 unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
   
 set_permissions() {
-  # The following is the default rule, DO NOT remove
-  set_perm_recursive "$MODPATH" 0 0 0755 0644
   
   # Here are some examples:
   # set_perm_recursive  $MODPATH/system/lib       0     0       0755      0644
@@ -31,7 +29,7 @@ set_permissions() {
   # file      :   0   0     0644   u:object_r:vendor_file:s0
   
   # set_perm_recursive <directory> <owner> <group> <dirpermission> <filepermission> [context]
-  set_perm_recursive "$MODPATH" 0 2000 0755 0644 u:object_r:vendor_file:s0
+  set_perm_recursive $MODPATH 0 2000 0755 0644 u:object_r:vendor_file:s0
   
   # set_perm <target> <owner> <group> <permission> [context]
   local FILE
