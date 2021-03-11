@@ -36,6 +36,8 @@ mcfg_sw/generic/Pixel/China/CT/Lab/VoLTE_Conf/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CU/Commercial/OpenMkt/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CU/Commercial/VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CU/Lab/Test/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/EU/A1/Commercial/pixel_Austria/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/EU/A1/Commercial/pixel_Serbia/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Bouygues/Commercial/pixel_France/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DIGI/Commercial/pixel_Romania/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/DT/Commercial/pixel_Austria/mcfg_sw.mbn
