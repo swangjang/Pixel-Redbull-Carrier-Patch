@@ -79,6 +79,7 @@ mcfg_sw/generic/Pixel/EU/Orange/Commercial/pixel_Slovakia/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Orange/Commercial/pixel_Spain/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Play/Commercial/pixel_Poland/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Plus/Commercial/pixel_Poland/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/EU/Proximus/Commercial/pixel_Belgium/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/SFR/Commercial/pixel_FR/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Smarty/Commercial/pixel_UK/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/EU/Sunrise/VoLTE/pixel_Sunrise/mcfg_sw.mbn
