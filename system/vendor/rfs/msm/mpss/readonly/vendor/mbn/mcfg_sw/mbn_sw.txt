@@ -189,6 +189,8 @@ mcfg_sw/generic/Pixel/NA/Verizon/pixel_hVoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Videotron/pixel_VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Visible/pixel_Visible/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Xfinity/pixel_Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/NZ/Spark/pixel_Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/NZ/Vodafone/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Lab/VoLTE_PTCRB/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Lab/VoLTE_Test/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/OEM/Lab/Oversea/Commercial/mcfg_sw.mbn
