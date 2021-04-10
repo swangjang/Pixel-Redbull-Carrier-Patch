@@ -37,5 +37,3 @@ set_permissions() {
     set_perm  "$FILE"  0  0  0644  u:object_r:vendor_file:s0
   done
 }
-  
-settings put global captive_portal_mode 0
