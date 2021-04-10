@@ -1,6 +1,6 @@
 id=Pixel-Bramble-Redfin-Carrier-Patch
 name=Pixel 4a(5G) / Pixel 5 Carrier Patch
-version=v0.3
-versionCode=3
+version=v0.4
+versionCode=4
 author=swangjang
 description=This is a Magisk module for Pixel 4a (5G) and Pixel 5 that enables 5G for Unlisted Countries, VoLTE switches in the settings, and add support for more countries/carriers.
