@@ -1,5 +1,5 @@
-mcfg_sw/generic/Pixel//AF/CellC/Commercial/pixel_SAfrica/mcfg_sw.mbn
-mcfg_sw/generic/Pixel//AF/MoroccoTel/Commercial/pixel_MA/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/AF/CellC/Commercial/pixel_SAfrica/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/AF/MoroccoTel/Commercial/pixel_MA/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/APAC/Airtel/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/APAC/DCM/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/APAC/IDEA/Commercial/pixel_IN/mcfg_sw.mbn
