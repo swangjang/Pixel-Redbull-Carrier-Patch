@@ -10,14 +10,12 @@ rm /data/vendor/radio/iccid_1
 rm /data/vendor/radio/qcril.db
 rm /data/vendor/radio/qcril_backup.db
 
-REPLACE="
-/vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw
-/system/vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw
-"
 
 unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
   
 set_permissions() {
+  # The following is the default rule, DO NOT remove
+  set_perm_recursive $MODPATH 0 0 0755 0644
   
   # Here are some examples:
   # set_perm_recursive  $MODPATH/system/lib       0     0       0755      0644
@@ -33,7 +31,7 @@ set_permissions() {
   
   # set_perm <target> <owner> <group> <permission> [context]
   local FILE
-  find $MODPATH -type f -o -type l 2>/dev/null | while read FILE; do
-    set_perm  "$FILE"  0  0  0644  u:object_r:vendor_file:s0
+  find $MODPATH/system/vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw -type f -o -type l 2>/dev/null | while read FILE; do
+  set_perm "$FILE" 0 0 0644 u:object_r:vendor_file:s0
   done
 }
