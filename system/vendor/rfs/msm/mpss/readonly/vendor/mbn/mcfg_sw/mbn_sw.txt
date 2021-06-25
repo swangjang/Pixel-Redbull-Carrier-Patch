@@ -228,6 +228,7 @@ mcfg_sw/generic/Pixel/SEA/wTStar/Commercial/pixel_TW/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/SEA/YTL/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/TestSIM/pixel_EIOTTestSIM/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/TestSIM/pixel_TestSIM/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/common/Global/pixel_Global/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/common/Ubigi/pixel_Ubigi/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/common/WildCard/pixel_WildCard/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/common/WildCard_IMS/pixel_WildCard_IMS/mcfg_sw.mbn
